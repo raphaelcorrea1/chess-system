@@ -19,8 +19,8 @@ cd chess-system
 3. **Compile e Execute o Jogo:**
 
 ```bash
-javac Application.java
-java Application
+javac Program.java
+java Program
 ```
 
 ## Funcionalidades
